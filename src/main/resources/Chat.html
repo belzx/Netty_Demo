@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div style="margin:0 auto; width: 800px;">
+    　　<textarea id="taMessages" style="width: 360px; height: 200px;" readonly ></textarea>
+    　　<br />
+    　　<input id="btnMessage" type="text" style="float:left; width:300px;" />
+    　　<input id="btnSend" type="button" value="Send" disabled="disabled" onclick="sendMessage();"/>
+</div>
+
+<script>
+    /* 注意浏览器js的执行顺序 */
+    var wsServer = 'ws://localhost:8123/echoserver'; //服务器地址
+    var websocket = new WebSocket(wsServer); //创建WebSocket对象
+
+    websocket.onopen = function(evt) {
+        document.getElementById("btnSend").disabled = false;
+    }
+    websocket.onmessage = function(evt) {
+        document.getElementById("taMessages").value += evt.data;
+        document.getElementById("taMessages").value +="\n";
+    }
+    websocket.onclose = function(evt) {
+        alter("oncolse");
+    }
+    websocket.onerror = function(evt) {
+        alter("onerror");
+    }
+
+    function sendMessage() {
+        var message = document.getElementById('btnMessage').value;
+        if ( websocket.readyState == WebSocket.OPEN ) {
+            websocket.send(message);
+        }
+        document.getElementById('btnMessage').value = '';
+    }
+</script>
+</body>
+</html>

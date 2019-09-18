@@ -1,0 +1,28 @@
+2019-09-18 19:47:00.374 INFO  io.netty.handler.logging.LoggingHandler - [id: 0xc4a44776] REGISTERED
+2019-09-18 19:47:00.377 INFO  io.netty.handler.logging.LoggingHandler - [id: 0xc4a44776] BIND(0.0.0.0/0.0.0.0:8080)
+2019-09-18 19:47:00.381 INFO  io.netty.handler.logging.LoggingHandler - [id: 0xc4a44776, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+2019-09-18 22:49:57.457 INFO  com.lizhi.http_down.HttpDownBootstrap - start down
+2019-09-18 22:49:57.576 INFO  com.lizhi.http_down.HttpDownBootstrap - read size:3447
+2019-09-18 22:49:57.586 INFO  com.lizhi.http_down.HttpDownBootstrap - read size:96
+2019-09-18 22:49:57.586 INFO  com.lizhi.http_down.HttpDownBootstrap - read size:395
+2019-09-18 22:49:57.586 INFO  com.lizhi.http_down.HttpDownBootstrap - ConnectionInfo(startPosition=0, endPosition=3937, downedSize=3938, fileChannel=sun.nio.ch.FileChannelImpl@6aa7c305)下载完成
+2019-09-18 22:49:57.616 INFO  com.lizhi.http_down.HttpDownBootstrap - read size:3442
+2019-09-18 22:49:57.616 INFO  com.lizhi.http_down.HttpDownBootstrap - read size:96
+2019-09-18 22:49:57.616 INFO  com.lizhi.http_down.HttpDownBootstrap - read size:401
+2019-09-18 22:49:57.616 INFO  com.lizhi.http_down.HttpDownBootstrap - ConnectionInfo(startPosition=3938, endPosition=7876, downedSize=3939, fileChannel=sun.nio.ch.FileChannelImpl@2a7852c)下载完成
+2019-09-18 22:55:21.668 INFO  com.lizhi.http_down.HttpDownBootstrap - start down
+2019-09-18 22:55:21.758 INFO  com.lizhi.http_down.HttpDownBootstrap - read size:3444
+2019-09-18 22:55:21.758 INFO  com.lizhi.http_down.HttpDownBootstrap - read size:96
+2019-09-18 22:55:21.758 INFO  com.lizhi.http_down.HttpDownBootstrap - read size:3443
+2019-09-18 22:55:21.768 INFO  com.lizhi.http_down.HttpDownBootstrap - read size:96
+2019-09-18 22:55:21.768 INFO  com.lizhi.http_down.HttpDownBootstrap - read size:399
+2019-09-18 22:55:21.768 INFO  com.lizhi.http_down.HttpDownBootstrap - ConnectionInfo(startPosition=0, endPosition=3937, downedSize=3938, fileChannel=sun.nio.ch.FileChannelImpl@2efae756)下载完成
+2019-09-18 22:55:21.768 INFO  com.lizhi.http_down.HttpDownBootstrap - read size:399
+2019-09-18 22:55:21.768 INFO  com.lizhi.http_down.HttpDownBootstrap - ConnectionInfo(startPosition=3938, endPosition=7876, downedSize=3939, fileChannel=sun.nio.ch.FileChannelImpl@260e3375)下载完成
+2019-09-18 22:55:40.069 INFO  com.lizhi.http_down.HttpDownBootstrap - start down
+2019-09-18 22:55:40.109 INFO  com.lizhi.http_down.HttpDownBootstrap - read size:1448
+2019-09-18 22:55:40.119 INFO  com.lizhi.http_down.HttpDownBootstrap - read size:2490
+2019-09-18 22:55:40.119 INFO  com.lizhi.http_down.HttpDownBootstrap - ConnectionInfo(startPosition=0, endPosition=3937, downedSize=3938, fileChannel=sun.nio.ch.FileChannelImpl@1aeccaac)下载完成
+2019-09-18 22:55:40.119 INFO  com.lizhi.http_down.HttpDownBootstrap - read size:1448
+2019-09-18 22:55:40.119 INFO  com.lizhi.http_down.HttpDownBootstrap - read size:2491
+2019-09-18 22:55:40.119 INFO  com.lizhi.http_down.HttpDownBootstrap - ConnectionInfo(startPosition=3938, endPosition=7876, downedSize=3939, fileChannel=sun.nio.ch.FileChannelImpl@8e6bf5b)下载完成

@@ -1,0 +1,10 @@
+2019-03-28 23:45:30.819 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x36b29d52] REGISTERED
+2019-03-28 23:45:30.821 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x36b29d52] BIND(0.0.0.0/0.0.0.0:8888)
+2019-03-28 23:45:30.824 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x36b29d52, L:/0:0:0:0:0:0:0:0:8888] ACTIVE
+2019-03-28 23:45:40.873 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x36b29d52, L:/0:0:0:0:0:0:0:0:8888] RECEIVED: [id: 0x79c9388b, L:/127.0.0.1:8888 - R:/127.0.0.1:54015]
+2019-03-28 23:48:58.973 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x36b29d52, L:/0:0:0:0:0:0:0:0:8888] RECEIVED: [id: 0x1db93b0f, L:/127.0.0.1:8888 - R:/127.0.0.1:54131]
+2019-03-28 23:53:19.414 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x4f1c2dea] REGISTERED
+2019-03-28 23:53:19.415 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x4f1c2dea] BIND(0.0.0.0/0.0.0.0:8888)
+2019-03-28 23:53:19.417 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x4f1c2dea, L:/0:0:0:0:0:0:0:0:8888] ACTIVE
+2019-03-28 23:53:19.418 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x4f1c2dea, L:/0:0:0:0:0:0:0:0:8888] CLOSE()
+2019-03-28 23:53:19.419 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x4f1c2dea, L:/0:0:0:0:0:0:0:0:8888] UNREGISTERED

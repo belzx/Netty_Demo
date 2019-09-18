@@ -1,0 +1,28 @@
+2019-04-17 23:27:09.506 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x9c20f5e9] REGISTERED
+2019-04-17 23:27:09.510 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x9c20f5e9] BIND(0.0.0.0/0.0.0.0:8080)
+2019-04-17 23:27:09.513 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x9c20f5e9, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+2019-04-17 23:27:12.345 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x9c20f5e9, L:/0:0:0:0:0:0:0:0:8080] RECEIVED: [id: 0x53a1db66, L:/127.0.0.1:8080 - R:/127.0.0.1:54656]
+2019-04-17 23:27:12.375 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x9c20f5e9, L:/0:0:0:0:0:0:0:0:8080] RECEIVED: [id: 0x997a766d, L:/127.0.0.1:8080 - R:/127.0.0.1:54657]
+2019-04-17 23:28:05.093 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x9c20f5e9, L:/0:0:0:0:0:0:0:0:8080] RECEIVED: [id: 0xfefe0bf4, L:/127.0.0.1:8080 - R:/127.0.0.1:54681]
+2019-04-17 23:33:35.035 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x1ec053eb] REGISTERED
+2019-04-17 23:33:35.041 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x1ec053eb] BIND(0.0.0.0/0.0.0.0:8080)
+2019-04-17 23:33:35.044 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x1ec053eb, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+2019-04-17 23:33:35.071 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x1ec053eb, L:/0:0:0:0:0:0:0:0:8080] RECEIVED: [id: 0x03218403, L:/127.0.0.1:8080 - R:/127.0.0.1:54849]
+2019-04-17 23:33:35.073 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x1ec053eb, L:/0:0:0:0:0:0:0:0:8080] RECEIVED: [id: 0x8043f14d, L:/127.0.0.1:8080 - R:/127.0.0.1:54850]
+2019-04-17 23:52:35.036 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x1ec053eb, L:/0:0:0:0:0:0:0:0:8080] RECEIVED: [id: 0x045cd5ce, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:55777]
+2019-04-17 23:52:35.037 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x1ec053eb, L:/0:0:0:0:0:0:0:0:8080] RECEIVED: [id: 0x89d75633, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:55778]
+2019-04-17 23:53:04.209 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x0a4e7065] REGISTERED
+2019-04-17 23:53:04.217 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x0a4e7065] BIND(0.0.0.0/0.0.0.0:8080)
+2019-04-17 23:53:04.221 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x0a4e7065, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+2019-04-17 23:54:46.803 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x0a4e7065, L:/0:0:0:0:0:0:0:0:8080] RECEIVED: [id: 0x5a69ead0, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:55886]
+2019-04-17 23:54:46.805 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x0a4e7065, L:/0:0:0:0:0:0:0:0:8080] RECEIVED: [id: 0x977a7341, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:55887]
+2019-04-17 23:55:16.392 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x0a4e7065, L:/0:0:0:0:0:0:0:0:8080] RECEIVED: [id: 0xd8ef60f8, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:55912]
+2019-04-17 23:55:26.901 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x0a4e7065, L:/0:0:0:0:0:0:0:0:8080] RECEIVED: [id: 0xd51e7def, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:55921]
+2019-04-17 23:56:01.984 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x0a4e7065, L:/0:0:0:0:0:0:0:0:8080] RECEIVED: [id: 0x83ccd5a2, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:55935]
+2019-04-17 23:56:12.273 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x0a4e7065, L:/0:0:0:0:0:0:0:0:8080] RECEIVED: [id: 0x6265d51a, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:55942]
+2019-04-17 23:56:50.049 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x0a4e7065, L:/0:0:0:0:0:0:0:0:8080] RECEIVED: [id: 0x4c941806, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:55960]
+2019-04-17 23:57:09.604 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x06de70c3] REGISTERED
+2019-04-17 23:57:09.612 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x06de70c3] BIND(0.0.0.0/0.0.0.0:8080)
+2019-04-17 23:57:09.615 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x06de70c3, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+2019-04-17 23:57:36.038 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x06de70c3, L:/0:0:0:0:0:0:0:0:8080] RECEIVED: [id: 0xfedc7ca7, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56012]
+2019-04-17 23:57:36.040 INFO  io.netty.handler.logging.LoggingHandler - [id: 0x06de70c3, L:/0:0:0:0:0:0:0:0:8080] RECEIVED: [id: 0x83ff7421, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56013]

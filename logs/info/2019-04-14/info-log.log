@@ -1,0 +1,8 @@
+2019-04-14 17:12:33.353 INFO  com.lizhi.netty3.ChatServer - Handler[0] channelRegistered()
+2019-04-14 17:12:33.413 INFO  com.lizhi.netty3.ChatServer - Handler[0] channelReadComplete()
+2019-04-14 17:12:33.417 INFO  com.lizhi.netty3.ChatServer - Handler[0] channelReadComplete()
+2019-04-14 17:12:50.228 INFO  com.lizhi.netty3.ChatServer - Handler[0] channelRead()
+2019-04-14 17:12:50.228 INFO  com.lizhi.netty3.ChatServer - Handler[1] channelRead()
+2019-04-14 17:12:50.228 INFO  com.lizhi.netty3.ChatServer - receive message:12
+2019-04-14 17:12:50.241 INFO  com.lizhi.netty3.ChatServer - Handler[0] channelReadComplete()
+2019-04-14 17:27:18.128 INFO  com.lizhi.netty3.ChatServer - Handler[0] channelRegistered()

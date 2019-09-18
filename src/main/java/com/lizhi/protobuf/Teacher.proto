@@ -1,0 +1,10 @@
+syntax = "proto2";
+option java_package = "com.lizhi.protobuf";
+option java_outer_classname = "TeacherSerializer";
+
+message Teacher{
+    required int64 teacherId = 1;
+    required int32 age = 2;
+    required string name = 3;
+    repeated string courses = 4;
+}
